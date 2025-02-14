@@ -1,0 +1,1 @@
+- if user gets a random cs question right, they get to continue past their tries

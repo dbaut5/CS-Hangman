@@ -1,0 +1,10 @@
+variable
+function
+module
+loop
+list
+dictionary
+tuple
+class
+string
+exception
